@@ -5,6 +5,8 @@ h1{ font-size: 50px; }
 
 p{ text-align: justify;}
 
+.stay{color: red;}
+
 .orange{color: orange;}
 
 section{display: flex;}
