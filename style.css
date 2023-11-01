@@ -4,6 +4,8 @@ margin: 0;}
 
 h1{ font-size: 50px; }
 
+.f{ font-size: 40px;}
+
 p{ text-align: justify;}
 
 .stay{color: red;}
@@ -31,3 +33,18 @@ section{display: flex; margin-bottom: 5%; }
 .half-width2 img { width: 80%; padding-left: 6%;}
 #orange{ color: orangered;}
 
+.padH{ padding-left: 4%;}
+
+.flexible-section{ display: flex; background-image: url(images/user_avatar.png  );
+    background-repeat: no-repeat; background-size: 7%; background-position: inherit ; }
+
+
+.half-width3{ width: 50%;
+    margin-left: 4%  ; margin-right: 4%;
+    border-radius: 5px;
+    padding-left: 3%; padding-right: 3%;
+    box-shadow: 10px 10px 30px gray;}
+    
+    #bdr1{ border-bottom: solid 5px tomato;}
+    #bdr2{ border-bottom: 5px solid red;}
+    
